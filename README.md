@@ -39,6 +39,7 @@ Jupyter Notebook: Python analysis
 Database: Relational database for structured querying
 
 🔄 Project Workflow / Steps
+
 1️⃣ Data Loading
 
 Loaded the dataset using Python (pandas)
@@ -122,7 +123,9 @@ Highlighted customer purchasing patterns
 Provided actionable insights to improve business performance
 
 ▶️ How to Run the Project
+
 Python Analysis
+
 pip install pandas numpy matplotlib seaborn sqlalchemy
 
 
